@@ -1,9 +1,38 @@
-- 👋 Hi, I’m @Marivellisse Garcia
-- 🌱 I’m currently learning Software Engineer @holbertonschool
-- 💞️ I’m looking to collaborate on Software Developer and changes to help me grown in my career.
-- 📫 How to reach me 787.690.5579
-- 😄 Pronouns: Mary
-- ⚡ Fun fact: I love Travel and Accounting.
+## 👋 Hi, I’m Marivellisse Garcia
+
+🎓 I hold a Bachelor's degree in Business Administration and an Associate's degree in Accounting.
+🎓 I’m a software engineering student at Holberton School  
+💼 I’m passionate about low-level programming, shell scripting, and building real-world applications  
+🌱 Currently learning: C, Shell, Systems programming  
+
+## 📫 How to reach me:
+- LinkedIn: [marivellisse-garcia](https://www.linkedin.com/in/marivellisse-garcia)
+- Email: [mgcoding@icloud.com](mailto:mgcoding@icloud.com), [gmarivellisse@gmail.com](mailto:gmarivellisse@gmail.com)
+
+--
+
+## 🔧 Technologies & Tools
+
+- Programming: C, Python, Bash
+- Tools: Git, GitHub, VS Code, Linux
+- Interests: Shells, Systems, Web APIs, DevOps basics
+
+---
+
+## 🛠️ Projects
+
+- 🔹 [Simple Shell](https://github.com/marivellisse-garcia/simple_shell): Custom UNIX command interpreter written in C.
+- 🔹 [printf](https://github.com/marivellisse-garcia/printf): Reimplementation of the C `printf` function.
+- 🔹 More projects at [github.com/marivellisse-garcia](https://github.com/marivellisse-garcia)
+
+---
+
+## 📈 GitHub Stats
+
+![Marivellisse’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=marivellisse-garcia&show_icons=true&hide_border=true&theme=tokyonight)
+
+---
+
 
 <!---
 Marivellisse/Marivellisse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
