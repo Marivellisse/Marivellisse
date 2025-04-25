@@ -21,15 +21,15 @@
 
 ## 🛠️ Projects
 
-- 🔹 [Simple Shell](https://github.com/marivellisse-garcia/simple_shell): Custom UNIX command interpreter written in C.
-- 🔹 [printf](https://github.com/marivellisse-garcia/printf): Reimplementation of the C `printf` function.
-- 🔹 More projects at [github.com/marivellisse-garcia](https://github.com/marivellisse-garcia)
+- 🔹 [Simple Shell](https://github.com/marivellisse/simple_shell): Custom UNIX command interpreter written in C.
+- 🔹 [printf](https://github.com/marivellisse/printf): Reimplementation of the C `printf` function.
+- 🔹 More projects at [github.com/marivellisse](https://github.com/marivellisse)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Marivellisse’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=marivellisse-garcia&show_icons=true&hide_border=true&theme=tokyonight)
+![Marivellisse’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=marivellisse&show_icons=true&hide_border=true&theme=tokyonight)
 
 ---
 
